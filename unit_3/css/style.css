@@ -2,28 +2,8 @@ body {
 	background-image: url(../images/Man cave.jpg);
 	background-size: cover;
 	background background-repeat: no-repeat;
-}
-
-h1 {
-	text-align: left;
-	font-size: 50px;
-	font-family: "Times New Roman", Times, serif;
-	color: white;
-}
-
-p {
-	font-size: 16px;
-	font-weight: bold;
+	color: rgb(255,255,255);
 	font-family: Times, sans-serif;
-	rgb:;
-}
-
-hr {
-	width: 200px
-}
-
-img {
-	text-align: center;
 }
 
 #logo {
@@ -46,4 +26,26 @@ img {
 	text-align: Left;
 	font-family: Times, sans-serif;
 	font-weight: lighter;
+}
+
+h1 {
+	text-align: left;
+	font-size: 50px;
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+}
+
+p {
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Times, sans-serif;
+	rgb:;
+}
+
+hr {
+	width: 200px
+}
+
+img {
+	text-align: center;
 }
