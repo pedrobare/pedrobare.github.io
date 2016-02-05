@@ -4,11 +4,6 @@ body {
 	color: rgb(87,35,23);
 	font-family: Arial, sans-serif;
     }
-#container {
-	height: 400px;
-	width: 400px;
-	position: relative;
-}
 
 #logo {
 	position: absolute;
@@ -31,10 +26,6 @@ body {
 	text-align: Left;
 	font-family: Times, sans-serif;
 	font-weight: lighter;
-}
-
-div{
-
 }
 
 h1 {
