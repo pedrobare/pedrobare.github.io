@@ -14,7 +14,7 @@ h1 {
 	font-family: Times, serif;
 	text-decoration: underline;
 	color: white;
-footer {
+#footer {
 	display: block;
 	bottom: 0;
 	position: fixed;
