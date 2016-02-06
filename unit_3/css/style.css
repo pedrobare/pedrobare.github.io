@@ -10,20 +10,20 @@ hr {
 }
 h1 {
 	text-align: center;
-	font-size: 50px;
+	font-size: 60px;
 	font-family: Times, serif;
 	text-decoration: underline;
-	color: rgb(0,0,0);
+	color: rgb(255,255,255);
 }
 #slogan {
-	font-size: 20px
+	font-size: 24px
 	font-style: italic;
 	text-align: center;
-	color: rgb(0,0,0);
+	color: rgb(255,255,255);
 }
 #Contact {
-	color: rgb(0,0,0); 
-	font-size: 14px
+	color: rgb(255,255,255); 
+	font-size: 16px
 	text-align: Left;
 	font-family: Times, sans-serif;
 	font-weight: lighter;
