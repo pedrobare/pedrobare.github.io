@@ -16,6 +16,8 @@ h1 {
 	color: white;
 footer {
 	display: block;
+	bottom: 0;
+	position: fixed;
 }
 #slogan {
 	font-size: 24px
