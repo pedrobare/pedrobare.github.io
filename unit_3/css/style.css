@@ -14,6 +14,8 @@ h1 {
 	font-family: Times, serif;
 	text-decoration: underline;
 	color: white;
+footer {
+	display: block;
 }
 #slogan {
 	font-size: 24px
@@ -21,10 +23,11 @@ h1 {
 	text-align: center;
 	color: rgb(255,255,255);
 }
-#Contact {
+#email {
 	color: rgb(255,255,255); 
 	font-size: 16px
 	text-align: Left;
+	position: 
 	font-family: Times, sans-serif;
 	font-weight: lighter;
 }
