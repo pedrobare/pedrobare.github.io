@@ -3,10 +3,10 @@ body {
 	background-image: url(../images/basketball_sneakers.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: #192757;
+	color: rgb(25,229,157);
 }
 h1 {
-	font-size: 60px;
+	font-size: 80px;
 	font-family: Impact, Charcoal, sans-serif;
 }
 hr {
@@ -14,6 +14,7 @@ hr {
 }
 #slogan {
 	font-size: 24px
+	color: rgb(25,229,157);
 	font-style: italic;
 	text-align: center;
 }
@@ -24,7 +25,7 @@ hr {
 }
 #email {
 	color: rgb(25,229,157); 
-	font-size: 16px
+	font-size: 20px
 	text-align: center;
 	font-family: Impact, Charcoal, sans-serif;
 	font-weight: bolder;
