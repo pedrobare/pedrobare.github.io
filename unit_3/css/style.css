@@ -2,29 +2,23 @@ body {
  	text-align: left;
 	background-image: url(../images/basketball_fence.jpg);
 	background-size: cover;
-	color: ;
+	color: black ;
 	font-family: Times, sans-serif;
 }
 hr {
 	width: 400px;
 }
 h1 {
-	text-align: left;
+	text-align: center;
 	font-size: 60px;
 	font-family: Times, serif;
 	text-decoration: underline;
 	color: black;
 }
-#logo {
-	width: 100px;
-	height: 115px;
-	border-radius: 60%;
-	margin: 0 auto;
-}
 #slogan {
 	font-size: 24px
 	font-style: italic;
-	text-align: left;
+	text-align: center;
 	color: black;
 }
 #footer {
@@ -35,7 +29,7 @@ h1 {
 #email {
 	color: #572317; 
 	font-size: 16px
-	text-align: Left;
+	text-align: center;
 	position: 
 	font-family: Times, sans-serif;
 	font-weight: lighter;
