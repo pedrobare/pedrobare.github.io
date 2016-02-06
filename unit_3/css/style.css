@@ -2,7 +2,6 @@ body {
  	text-align: center;
 	background-image: url(../images/basketball_sneakers.jpg);
 	background-size: cover;
-	background-repeat: repeat-y;
 	color: red;
 	font-family: Lucida, sans-serif;
 }
