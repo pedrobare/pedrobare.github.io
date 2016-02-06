@@ -11,14 +11,11 @@ h1 {
 	font-size: 80px;
 	font-family: Impact, Charcoal, sans-serif;
 }
-hr {
-	width: 200px;
-}
 #slogan {
 	font-size: 24px
 	color: rgb(25,229,157);
 	font-style: italic;
-	text-align: center;
+	text-align: left;
 }
 #navigation {
 	list-style-type: none;
