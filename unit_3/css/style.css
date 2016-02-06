@@ -2,13 +2,15 @@ body {
  	text-align: center;
 	background-image: url(../images/basketball_sneakers.jpg);
 	background-size: cover;
+	background-repeat: no-repeat;
 	color: #192757;
-	font-family: Impact, Charcoal, sans-serif;
 }
 h1 {
-	text-align: center;
 	font-size: 60px;
 	font-family: Impact, Charcoal, sans-serif;
+}
+hr {
+	width: 200px;
 }
 #slogan {
 	font-size: 24px
