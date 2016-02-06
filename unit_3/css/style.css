@@ -1,26 +1,25 @@
 body {
- 	text-align: center;
-	background-image: url(../images/basketball_fence.jpg);
+ 	text-align: right;
+	background-image: url(../images/basketball-hong-kong.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: black ;
-	font-family: Times, sans-serif;
+	color: white ;
+	font-family: Lucida, sans-serif;
 }
 hr {
 	width: 400px;
 }
 h1 {
-	text-align: center;
+	text-align: right;
 	font-size: 60px;
-	font-family: Times, serif;
-	text-decoration: underline;
-	color: black;
+	font-family: Lucida, serif;
+	color: rgb(255,255,255);
 }
 #slogan {
 	font-size: 24px
 	font-style: italic;
 	text-align: center;
-	color: black;
+	color: #fff;
 }
 #footer {
 	display: block;
@@ -32,6 +31,6 @@ h1 {
 	font-size: 16px
 	text-align: center;
 	position: 
-	font-family: Times, sans-serif;
-	font-weight: lighter;
+	font-family: Lucida, sans-serif;
+	font-weight: bold;
 }
