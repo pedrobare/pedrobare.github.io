@@ -1,41 +1,30 @@
 body {
-	background-image: url(../images/Man cave.jpg);
+ 	text-align: center;
+	background-image: url(../images/Cigarroom.jpg);
 	background-size: cover;
-	color: rgb(87,35,23);
-	font-family: Arial, sans-serif;
-    }
-
-#logo {
-	width: 100px;
-	height: 100px;
-	border-radius: 50%;
-	margin: 10px 0 0 90px;
+	color: #fff;
+	font-family: Times, sans-serif;
 }
-
+hr {
+	width: 200px;
+}
+h1 {
+	text-align: left;
+	font-size: 50px;
+	font-family: Times, serif;
+	text-decoration: underline;
+	color: rgb(0,0,0);
+}
 #slogan {
 	font-size: 20px
 	font-style: italic;
 	text-align: center;
 	color: rgb(0,0,0);
 }
-
-#Hitusup! {
+#Contact {
 	color: rgb(0,0,0); 
 	font-size: 14px
 	text-align: Left;
 	font-family: Times, sans-serif;
 	font-weight: lighter;
-}
-
-h1 {
-	text-align: left;
-	font-size: 50px;
-	font-family: Times, serif;
-	color: rgb(0,0,0);
-}
-
-p {
-	font-size: 16px;
-	font-weight: bold;
-	font-family: Times, sans-serif;
 }
