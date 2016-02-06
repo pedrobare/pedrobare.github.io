@@ -2,7 +2,7 @@ body {
  	text-align: right;
 	background-image: url(../images/basketball-hong-kong.jpg);
 	background-size: cover;
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	color: white ;
 	font-family: Lucida, sans-serif;
 }
