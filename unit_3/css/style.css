@@ -2,13 +2,13 @@ body {
  	text-align: center;
 	background-image: url(../images/basketball_sneakers.jpg);
 	background-size: cover;
-	color: red;
-	font-family: Lucida, sans-serif;
+	color: #192757;
+	font-family: Impact, Charcoal, sans-serif;
 }
 h1 {
 	text-align: center;
 	font-size: 60px;
-	font-family: Lucida, serif;
+	font-family: Impact, Charcoal, sans-serif;
 }
 #slogan {
 	font-size: 24px
@@ -21,10 +21,9 @@ h1 {
 	position: fixed;
 }
 #email {
-	color: red; 
+	color: rgb(25,229,157); 
 	font-size: 16px
 	text-align: center;
-	position: 
-	font-family: Lucida, sans-serif;
-	font-weight: bold;
+	font-family: Impact, Charcoal, sans-serif;
+	font-weight: bolder;
 }
