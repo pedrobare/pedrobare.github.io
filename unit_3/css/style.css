@@ -1,13 +1,13 @@
 body {
- 	text-align: right;
-	background-image: url(../images/basketball-hong-kong.jpg);
+ 	text-align: center;
+	background-image: url(../images/basketball_sneakers.jpg);
 	background-size: cover;
 	background-repeat: repeat-y;
-	color: white ;
+	color: red;
 	font-family: Lucida, sans-serif;
 }
 h1 {
-	text-align: right;
+	text-align: center;
 	font-size: 60px;
 	font-family: Lucida, serif;
 }
@@ -22,7 +22,7 @@ h1 {
 	position: fixed;
 }
 #email {
-	color: white; 
+	color: red; 
 	font-size: 16px
 	text-align: center;
 	position: 
