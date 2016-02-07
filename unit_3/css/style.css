@@ -53,16 +53,18 @@ li a {
 	background-color: rgb(255,0,0);
 }
 a {
-	color: black
+	color: rgb(255,255,255);
 	text-decoration: none;
  	text-align: center;
 	padding: 7px 16px;*/
 	font-family: Impact, Charcoal, sans-serif;
-	background-color: rgb(255,255,255);
+	background-color: rgb(255,0,0);
 }
-p, li, ul {
-	color: rgb(255,0,0);
-	font-family: Impact, Charcoal, sans-serif;
+.floating-box {
+	display: inline-block;
+	width:100px;
+	height: 70px;
+	background-color: rgb(255,0,0);
 }
 div {
 	padding-right: 50px;
