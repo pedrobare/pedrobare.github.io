@@ -80,7 +80,7 @@ a {
 
 .floating-box {
 	display: inline-block;
-	width: 80px;
+	width: 100px;
 	opacity: 0.3;
 	height: 50px;
 	font-size: 30px;
