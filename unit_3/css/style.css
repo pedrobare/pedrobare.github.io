@@ -35,19 +35,23 @@ h1 {
 	color: rgb(255,255,255);
 	font-family: 'Courgette, cursive;
 }
+
 .navigation-li {
 	float: left;
 	font-family: 'Courgette', cursive;
 }
+
 .navigation-li a:hover {
 	background-color: transparent;
 	font-weight: bold;
 	font-family: 'Courgette', cursive;
 }
+
 .active {
 	background-color: rgb(255,255,255);
 	color: rgb(255,255,255);
 }
+
 li a {
 	display: block;
 	color: rgb(255,255,255);
@@ -71,6 +75,7 @@ a {
 	height: 50px;
 	background-color: rgb(255,0,0);
 }
+
 div {
 	padding-right: 50px;
 }
