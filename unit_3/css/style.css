@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
-@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+@import url(https://fonts.googleapis.com/css?family=Yellowtail);
 @import url(https://fonts.googleapis.com/css?family=Courgette);
 
 body {
@@ -21,7 +21,7 @@ h1 {
 #slogan {
 	font-size: 30px
 	color: rgb(255,255,255);
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Yellowtail', cursive;
 	font-style: italic;
 	text-align: left;
 }
@@ -70,7 +70,7 @@ a {
 	text-decoration: none;
  	text-align: center;
 	padding: 7px 16px;*/
-	font-family: Impact, Charcoal, sans-serif;
+	font-family: ;
 	background-color: rgb(255,0,0);
 }
 
