@@ -63,7 +63,6 @@ li a {
 	text-align: center;
 	padding: 16px 16px;
 	text-decoration: none;
-	opacity: 0.3;
 	font-weight: 700;
 	font-family: 'Courgette', cursive;
 	background-color: rgb(115,14,7);
@@ -75,7 +74,7 @@ a {
  	text-align: center;
 	padding: 7px 16px;*/
 	font-family: 'Bangers', cursive;
-	background-color: rgb(255,0,0);
+	background-color: rgb(115,14,7);
 }
 
 .floating-box {
@@ -84,7 +83,7 @@ a {
 	opacity: 0.3;
 	height: 50px;
 	font-size: 30px;
-	background-color: rgb(255,0,0);
+	background-color: rgb(115,14,7);
 	font-family: 'Bangers', cursive;
 }
 
