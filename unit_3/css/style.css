@@ -64,6 +64,7 @@ li a {
 	padding: 16px 16px;
 	text-decoration: none;
 	opacity: 0.3;
+	font-weight: 700;
 	font-family: 'Courgette', cursive;
 	background-color: rgb(115,14,7);
 }
@@ -79,7 +80,7 @@ a {
 
 .floating-box {
 	display: inline-block;
-	width: 80x;
+	width: 70x;
 	height: 50px;
 	background-color: rgb(255,0,0);
 }
