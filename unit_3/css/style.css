@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+@import url(https://fonts.googleapis.com/css?family=Courgette);
 
 body {
  	padding-top: 50px;
@@ -15,9 +17,9 @@ h1 {
 	font-weight: 400;
 }
 #slogan {
-	font-size: 24px
+	font-size: 30px
 	color: rgb(255,255,255);
-	font-family: Impact, Charcoal, sans-serif;
+	font-family: 'Kaushan Script', cursive;
 	font-style: italic;
 	text-align: left;
 }
@@ -31,16 +33,16 @@ h1 {
 	width: 100%;
 	background-color: rgb(255,0,0);
 	color: rgb(255,255,255);
-	font-family: Impact, Charcoal, sans-serif;
+	font-family: 'Courgette, cursive;
 }
 .navigation-li {
 	float: left;
-	font-family: Impact, Charcoal, sans-serif;
+	font-family: 'Courgette', cursive;
 }
 .navigation-li a:hover {
 	background-color: transparent;
 	font-weight: bold;
-	font-family: Impact, Charcoal, sans-serif;
+	font-family: 'Courgette', cursive;
 }
 .active {
 	background-color: rgb(255,255,255);
@@ -52,7 +54,7 @@ li a {
 	text-align: center;
 	padding: 16px 16px;
 	text-decoration: none;
-	font-family: Impact, Charcoal, sans-serif;
+	font-family: 'Courgette', cursive;
 	background-color: rgb(255,0,0);
 }
 a {
