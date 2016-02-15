@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 @import url(https://fonts.googleapis.com/css?family=Yellowtail);
 @import url(https://fonts.googleapis.com/css?family=Courgette);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
 
 body {
  	padding-top: 50px;
@@ -70,7 +71,7 @@ a {
 	text-decoration: none;
  	text-align: center;
 	padding: 7px 16px;*/
-	font-family: ;
+	font-family: 'Bangers', cursive;
 	background-color: rgb(255,0,0);
 }
 
