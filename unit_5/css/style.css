@@ -30,20 +30,20 @@ h2{
 header {
 	background-color: #FFED74
 	border: 1px black solid;
-	padding: 20px;
+	padding: 10px;
 }
 
 nav{
 	background-color: #E8C66A;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 10px;
 }
 
 #navigation{
 	background-color: #E8C66A;
 	list-style-type: none;
 	margin: 0;
-	padding: 20px;
+	padding: 10px;
 	overflow: hidden;
 	position: fixed;
 	top: 0;
@@ -81,6 +81,10 @@ article {
 	background-color: #E89C6C
 	border: 1px black solid;
 	padding: 20px;
+	position: fixed;
+	left: 100;
+	middle: 0;
+	width: 200px;
 
 }
 
