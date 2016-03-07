@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Courgette);
+
+body {
+	font-size: 18px;
+}
+
+#wrapper {
+	background-color:; 
+	width: 960px;
+	margin: 0 auto;
+	border: 2px black solid;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	border: 1px black solid;
+	padding: 10px;
+
+}
+header {
+	background-color: #FFED74
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#navigation{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	font-family: 'Courgette', cursive;
+}
+
+.navigation-li {
+	float: left;
+	font-family: 'Courgette', cursive;
+}
+
+.navigation-li a:hover {
+	background-color: rgb(115,14,7);
+	font-weight: bold;
+	font-family: 'Courgette', cursive;
+}
+
+li a {
+	display: block;
+	color: rgb(255,255,255,0.5);
+	text-align: center;
+	border-right: 1px solid #bbb;
+	padding: 16px 16px;
+	text-decoration: none;
+	font-weight: 700;
+	font-family: 'Courgette', cursive;
+	background-color: rgb(115,14,7);
+
+section {
+	background-color: #FFE2B8
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside{
+	background-color: #FFC675
+	border: 1px black solid
+	padding: 20px;
+}
+
+footer {
+	display: block;
+	background-color: #FF957E
+	border: 1px black solid;
+	padding: 20px;
+}
+
