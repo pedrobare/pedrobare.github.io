@@ -30,6 +30,8 @@ header {
 
 nav {
     background-color:#E8C66A;
+    color: black;
+    font-family: 'Courgette', cursive;
     border: 1px black solid;
     display: inline;
     margin: 0 auto;
