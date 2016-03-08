@@ -7,7 +7,7 @@ body {
 }
 
 #wrapper {
-	background-color: #F0A861; 
+	background-color: white; 
 	width: 960px;
 	margin: 0 auto;
 	border: 2px black solid;
@@ -17,49 +17,43 @@ h1{
 	font-family: 'Lobster', cursive;
 	font-size: 2em;
 	border: 1px black solid;
-	padding: 10px;
+	padding: 20px;
 
-}
-
-h2 {
-	font-family: 'Pacifico', cursive;
-	font-size: 18px;
-	border: 1px black solid;
-	padding 10px;
 }
 
 header {
     background-color: #FFED74;
     color: black;
     border: 1px black solid;
-    padding: 10px;	 
+    padding: 20px;	 
 }
 
 nav {
     background-color:#E8C66A;
     border: 1px black solid;
     display: inline;
+    margin: 0 auto;
     width: 570px;
-    padding: 10px;
+    padding: 20px;
     float: left;
 }
 
 article {
     background-color: #E89C6C;
     border: 1px black solid;
-    left: 100;
+    left: 100px;
     height: 400px;
     top-left: 100px;
     width:200px;
-    padding:10px;	 	 
+    padding:20px;	 	 
 }
 
 aside {
     background-color: #FFC675;
     border: 1px black solid;
     height: 400px;
-    padding: 10px;
-    bottom-left: 100;
+    padding: 20px;
+    bottom-left: 100px;
     width: 200px;
 }
 
@@ -70,5 +64,5 @@ footer {
     padding: 10px;
     height: 100px;
     text-align:center;
-    padding:10px;	 	 
+    padding: 20px;	 	 
 }
