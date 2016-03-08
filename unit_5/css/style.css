@@ -41,20 +41,13 @@ article {
     background-color: #E89C6C;
     font-family: 'Bangers', cursive;
     border: 1px black solid;
-    left: 100px;
-    height: 400px;
-    top-left: 100px;
-    width: 400px;
     padding:20px;	 	 
 }
 
 aside {
     background-color: #FFC675;
     border: 1px black solid;
-    height: 400px;
     padding: 20px;
-    bottom-left: 100px;
-    width: 400px;
 }
 
 div {
@@ -67,7 +60,6 @@ footer {
     background-color: #FF957E;
     border: 1px black solid;
     padding: 10px;
-    height: 100px;
     text-align:center;
     padding: 20px;	 	 
 }
