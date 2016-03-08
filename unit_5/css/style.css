@@ -48,7 +48,7 @@ article {
     background-color: #E89C6C;
     border: 1px black solid;
     left: 100;
-    height: 100px;
+    height: 400px;
     top-left: 100px;
     width:200px;
     padding:10px;	 	 
@@ -57,7 +57,7 @@ article {
 aside {
     background-color: #FFC675;
     border: 1px black solid;
-    height: 100px;
+    height: 400px;
     padding: 10px;
     bottom-left: 100;
     width: 200px;
