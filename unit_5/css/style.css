@@ -35,7 +35,7 @@ nav {
     border: 1px black solid;
     display: inline;
     margin: 0 auto;
-    width: 570px;
+    width: 0 auto;
     padding: 20px;
     float: left;
 }
