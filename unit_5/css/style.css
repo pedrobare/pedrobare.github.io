@@ -4,9 +4,10 @@ body {
 
 }
 
-#wrapper {
-	background-color: #17E51C; 
-
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 header {
@@ -23,5 +24,6 @@ nav {
     border: 1px black solid;
     display: inline;
     padding: 20px;
+}
     
 
