@@ -24,18 +24,22 @@ nav {
     border: 1px black solid;
     padding: 20px;
 }
-
 ul {
-	list-style-type: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
 li {
-	display: inline;
-	float: left;
+    float: left;
 }
 
 li a {
-	display: block;
-	padding: 16px 20px;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
 }
+
 
