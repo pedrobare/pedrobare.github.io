@@ -51,5 +51,6 @@ footer{
 	padding: 20px;
 }
 
+body > #container {heigth: auton; min-height: 50%}
 
 
