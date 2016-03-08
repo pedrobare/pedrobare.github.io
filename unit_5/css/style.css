@@ -61,6 +61,9 @@ aside {
     width: 400px;
 }
 
+div {
+	background-color: #FFE2B8;
+}
 
 footer {
     background-color: #FF957E;
