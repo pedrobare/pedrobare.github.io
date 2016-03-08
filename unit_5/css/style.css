@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
-@import url(https://fonts.googleapis.com/css?family=Courgette);
-@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+
 
 body {
 	font-size: 18px;
@@ -43,6 +43,7 @@ nav {
 
 article {
     background-color: #E89C6C;
+    font-family: 'Bangers', cursive;
     border: 1px black solid;
     left: 100px;
     height: 400px;
