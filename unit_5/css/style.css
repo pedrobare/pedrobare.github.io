@@ -12,18 +12,6 @@ body {
 	margin: 0 auto;
 }
 
-.left {
-	width: 240px;
-	height: 123px;
-	float: left;
-}
-
-.right {
-	width: 240px;
-	height: 123px;
-	float: right;
-}
-
 h1{
 	font-family: 'Permanent Marker', cursive;
 	font-size: 2em;
