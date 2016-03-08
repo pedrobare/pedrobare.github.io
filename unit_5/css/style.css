@@ -9,16 +9,13 @@ body {
 
 }
 
-h1{
-	font-family: 'Permanent Marker', cursive;
-	font-size: 2em;
-}
-
 header {
     background-color: #FFED74;
     color: black;
     border: 1px black solid;
-    padding: 20px;	 
+    padding: 20px;	
+    font-family: 'Permanent Marker', cursive; 
+    font-size: 2em;
 }
 
 
