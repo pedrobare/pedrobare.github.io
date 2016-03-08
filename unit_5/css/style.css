@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
 @import url(https://fonts.googleapis.com/css?family=Courgette);
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 
@@ -14,7 +14,7 @@ body {
 }
 
 h1{
-	font-family: 'Lobster', cursive;
+	font-family: 'Permanent Marker', cursive;
 	font-size: 80px;
 	border: 1px black solid;
 	padding: 20px;
