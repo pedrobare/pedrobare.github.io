@@ -42,6 +42,12 @@ aside {
 	padding: 20px;
 }
 
+.one {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 #two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
