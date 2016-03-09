@@ -64,26 +64,14 @@ aside {
 	background-color: violet;
 	border: 1px black solid;
 	padding: 20px;
-	float: left;
-	width: 30%;
-}
+}	
 
 #right {
 	background-color: pink;
 	border: 1px black solid;
 	padding: 20px;
-	float: right;
-	width: 62%;
 }
 
-.clearflix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
-}
 
 footer{
 	background-color: #FF957E;
