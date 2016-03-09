@@ -42,8 +42,14 @@ aside {
 	padding: 20px;
 }
 
-.one {
+#one {
 	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two {
+	background-color: E89C6C;
 	border: 1px black solid;
 	padding: 20px;
 }
