@@ -1,4 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Courgette);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
 
 body {
 
@@ -13,7 +16,7 @@ header {
     color: black;
     border: 1px black solid;
     padding: 80%;	
-    font-family: 'Permanent Marker', cursive; 
+    font-family: 'Lobster', cursive; 
     font-size: 2em;
 }
 nav {
@@ -35,7 +38,46 @@ article {
 	border: 1px black solid;
 	padding: 20px;
 }
+#navigation {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: rgb(115,14,7);
+	color: rgb(255,255,255);
+	font-family: 'Courgette, cursive;
+}
 
+.navigation-li {
+	float: left;
+	font-family: 'Courgette', cursive;
+}
+
+.navigation-li a:hover {
+	background-color: rgba(115,14,7,0.5);
+	font-weight: bold;
+	font-family: 'Courgette', cursive;
+}
+
+.active {
+	background-color: rgb(255,255,255);
+	color: rgb(255,255,255);
+}
+
+li a {
+	display: block;
+	color: rgb(255,255,255,0.5);
+	text-align: center;
+	border-right: 1px solid #bbb;
+	padding: 16px 16px;
+	text-decoration: none;
+	font-weight: 700;
+	font-family: 'Courgette', cursive;
+	background-color: rgb(115,14,7);
+}
 #one {
 	background-color: #FFE2B8;
 	border: 1px black solid;
