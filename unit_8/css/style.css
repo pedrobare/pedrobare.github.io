@@ -38,18 +38,6 @@ article {
 	border: 1px black solid;
 	padding: 20px;
 }
-#navigation {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	position: fixed;
-	top: 0;
-	width: 100%;
-	background-color: rgb(115,14,7);
-	color: rgb(255,255,255);
-	font-family: 'Courgette, cursive;
-}
 
 .navigation-li {
 	float: left;
