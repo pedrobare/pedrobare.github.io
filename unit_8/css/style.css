@@ -5,13 +5,13 @@ body {
 }
 div {
 	background-color: #FFE2B8;
-	padding: 100%;
+	padding: 20px;
 }
 header {
     background-color: #FFED74;
     color: black;
     border: 1px black solid;
-    padding: 80%;	
+    padding: 20px;	
     font-family: 'Permanent Marker', cursive; 
     font-size: 2em;
 }
